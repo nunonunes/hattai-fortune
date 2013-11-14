@@ -3,7 +3,7 @@ hattai-fortune
 
 Hattai's Fortune: a script to be used by a bot, that gives news (from Público)
 
-Build status of this branch: [![Build Status](https://travis-ci.org/nunonunes/hattai-fortune.png?branch=better-news-reader)](https://travis-ci.org/nunonunes/hattai-fortune)
+Build status of this branch: [![Build Status](https://travis-ci.org/nunonunes/hattai-fortune.png?branch=testing)](https://travis-ci.org/nunonunes/hattai-fortune)
 
 ## Script's behaviour
 
